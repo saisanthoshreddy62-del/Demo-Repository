@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: green;
 
 }
 
@@ -10,4 +10,13 @@ div {
 
 #header {
     background-color: darkslategray;
+
+}
+
+label {
+    background-color: aqua;
+}
+
+input {
+    background-color: cadetblue;
 }
